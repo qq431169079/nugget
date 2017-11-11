@@ -40,11 +40,11 @@ udp_floodb()
 {
     clear
     echo -e " ${BLUE} "
-echo "IP:"
+echo "Fag To Slam:"
 read ip
-echo "Port:"
+echo "De-Port:"
 read port
-echo "Time:"
+echo "Time To Slap:"
 read time
 python gott.2.py $ip $port $time
 python gott.2.py $ip $port $time
