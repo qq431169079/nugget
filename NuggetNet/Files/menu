@@ -27499,14 +27499,8 @@ clear
 while :
 do
     clear
-    echo -e " ${BLUE} "
-    echo "     |-------------------------------------------------------------------| "                                                         
-    echo -e "     |${LIGHTBLUE} Bypass:${LIGHTGREEN}${RED}[${LIGHTGREEN}ON${RED}]                                  ${BLUE}                     | " 
-    echo -e "     |${LIGHTBLUE} Version:${LIGHTGREEN}${RED}[${LIGHTGREEN}1.0${RED}]                                  ${BLUE}                   | "
-    echo -e "     |${LIGHTBLUE}                        Welcome To ${RED}NuggetNet      ${BLUE}                 | " 
-    echo -e "     |${LIGHTGREEN}                              Methods:                  ${BLUE}           | "
-    echo -e "     |${RED}                   [${LIGHTGREEN}UDP${RED}]                     [${LIGHTGREEN}TCP${RED}]${BLUE}                 | "
-    echo "     |-------------------------------------------------------------------| " 
+    echo -e " ${RED} "
+    echo -e "NuggetPorn Is Gunna Hit Hard ;P"
     echo -e "${RED}"
     echo -n "  > "
     read yourch
